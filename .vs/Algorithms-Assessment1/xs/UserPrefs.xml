@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{13D278C9-2262-4EC8-8060-1D55764DD16D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms-Assessment1/Program.cs">
+    <Files>
+      <File FileName="Algorithms-Assessment1/Analyse.cs" Line="1" Column="1" />
+      <File FileName="Algorithms-Assessment1/Program.cs" Line="7" Column="1" />
+      <File FileName="Algorithms-Assessment1/Input.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithms-Assessment1" expanded="True">
+            <Node name="Algorithms-Assessment1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Algorithms-Assessment1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

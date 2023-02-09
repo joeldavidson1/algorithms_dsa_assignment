@@ -1,0 +1,6 @@
+/Users/joeldavidson/repos/Algorithms-Assessment-1/Algorithms-Assessment1/Algorithms-Assessment1/bin/Debug/Algorithms_Assessment1.exe
+/Users/joeldavidson/repos/Algorithms-Assessment-1/Algorithms-Assessment1/Algorithms-Assessment1/bin/Debug/Algorithms_Assessment1.pdb
+/Users/joeldavidson/repos/Algorithms-Assessment-1/Algorithms-Assessment1/Algorithms-Assessment1/obj/Debug/Algorithms-Assessment1.csproj.AssemblyReference.cache
+/Users/joeldavidson/repos/Algorithms-Assessment-1/Algorithms-Assessment1/Algorithms-Assessment1/obj/Debug/Algorithms-Assessment1.csproj.CoreCompileInputs.cache
+/Users/joeldavidson/repos/Algorithms-Assessment-1/Algorithms-Assessment1/Algorithms-Assessment1/obj/Debug/Algorithms_Assessment1.exe
+/Users/joeldavidson/repos/Algorithms-Assessment-1/Algorithms-Assessment1/Algorithms-Assessment1/obj/Debug/Algorithms_Assessment1.pdb
